@@ -1,0 +1,19 @@
+{
+  "name": "maximeduhamel.dev",
+  "version": "1.0.0",
+  "description": "Web Design & Development Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximeduhamel/maximeduhamel.dev.git"
+  },
+  "author": "Maxime Duhamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maximeduhamel/maximeduhamel.dev/issues"
+  },
+  "homepage": "https://github.com/maximeduhamel/maximeduhamel.dev#readme"
+}
